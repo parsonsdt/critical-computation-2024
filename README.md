@@ -1,6 +1,6 @@
-# Critical Computation 2022
+# Critical Computation 2024
 
-This is the [website](https://parsonsdt.github.io/critical-computation-2022/) for Critical Computation, an undergraduate and graduate-level course at Parsons Design & Technology at the New School.
+This is the [website](https://parsonsdt.github.io/critical-computation-2024/) for Critical Computation, an undergraduate and graduate-level course at Parsons Design & Technology at the New School.
 
 ### Lecture Faculty
 
@@ -9,14 +9,14 @@ This is the [website](https://parsonsdt.github.io/critical-computation-2022/) fo
 
 ### Lab Faculty
 
-- [Burcum Türkmen](https://www.linkedin.com/in/burcumturkmen)
-- [Gabriel-Lee Dekoladenu](https://www.gabedeko.com/)
 - [Lai Yi Ohlsen](https://www.laiyiohlsen.com/)
-- [Mark Ramos](https://www.markhramos.net/)
+- [Gabriel-Lee Dekoladenu](https://www.gabedeko.com/)
 - [Morgan Mueller](http://morganmueller.xyz/)
-- [Regina Flores Mir](http://www.reginafloresmir.com/)
-- [Senyan Luo](https://www.bubbly-senyan.com/)
-- [Tyler Yin](https://tyleryin.co/)
+- [Ally Luo](https://www.luoyanxiu.com/)
+- [Luca Jeha Civita](https://www.lucacivita.com/)
+- [Murat Barlas](https://www.muratbarlas.space/)
+- Aditi Gunna
+- Terry Kahn
 
 ## Course Descriptions
 
