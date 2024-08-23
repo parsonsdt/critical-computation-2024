@@ -15,7 +15,7 @@ This is the [website](https://parsonsdt.github.io/critical-computation-2024/) fo
 - [Ally Luo](https://www.luoyanxiu.com/)
 - [Luca Jeha Civita](https://www.lucacivita.com/)
 - [Murat Barlas](https://www.muratbarlas.space/)
-- Aditi Gunna
+- [Aditi Gunna](https://aditigunna.cargo.site)
 - [Terry Kahn](https://terrypogger.itch.io/)
 
 ## Course Descriptions
